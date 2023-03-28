@@ -1,0 +1,20 @@
+body{
+    background-color: coral;
+}
+.heading{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-size: 130px;
+    font-weight: 700;
+    font-family: 'Fasthand', cursive;
+}
+p{
+    width: 90%;
+    margin: 0px auto;
+    color: white;
+    text-shadow: 10px 6px 10px black;
+    font-size: 40px;
+    padding-top: 30px;
+}
